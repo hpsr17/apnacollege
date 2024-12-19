@@ -1,4 +1,4 @@
 
 # apnacollege
-This is my fist git reposistory 
+This is my first git repository 
 Author - Hirendra Raghuwanshi
